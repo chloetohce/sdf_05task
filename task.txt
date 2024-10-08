@@ -1,0 +1,12 @@
+From googleplaystore, get the highest rated, lowest rated, and average rating of each category
+
+
+
+
+Using ML, generate writing based on austen or lovecraft texts
+- Analyse the text by getting the distribution of the next word. (i.e. the probability of the word following the next work)
+
+- Remove chapter indicators
+- Convert all letters to lowercase
+- Remove all punctuations, except full stop (treat as nothing)
+- Technically should remove stop words (e.g. it, is, a, the, etc.)
